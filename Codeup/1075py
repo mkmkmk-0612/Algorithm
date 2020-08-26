@@ -1,0 +1,6 @@
+x = int(input())
+while True:
+    x = x-1
+    print(x)
+    if x < 1:
+        break
